@@ -1,1 +1,1 @@
-# teat-project
+# test-project
